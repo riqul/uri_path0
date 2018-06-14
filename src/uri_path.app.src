@@ -1,0 +1,9 @@
+{application, uri_path,
+  [
+    {description, ""},
+    {vsn, "0.1"},
+    {registered, []},
+    {applications, []},
+    {env, []}
+  ]}.
+

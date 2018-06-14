@@ -1,0 +1,7 @@
+/.idea
+/*.iml
+_build/
+ebin/
+deps/
+/erl_crash.dump
+/rebar.lock
