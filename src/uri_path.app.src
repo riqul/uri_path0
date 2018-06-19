@@ -1,7 +1,9 @@
 {application, uri_path,
   [
-    {description, ""},
+    {description, "uri_path"},
     {vsn, "0.1"},
+    {id, "uri_path"},
+    {modules, [uri_path]},
     {registered, []},
     {applications, []},
     {env, []}
